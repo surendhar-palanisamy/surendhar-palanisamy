@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://surendhar.vercel.app/](https://surendhar.vercel.app/)
 
-- 💬 Ask me about **React,Typescript,Django,Anime ,Finance**
+- 💬 Ask me about **React,Typescript,Django,Anime ,Swing Trading**
 
 - ⚡ Fun fact **I am pretty good to work with**
 
