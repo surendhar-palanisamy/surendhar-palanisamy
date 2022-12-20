@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://surendhar.vercel.app/](https://surendhar.vercel.app/)
 
-- 💬 Ask me about **React,Typescript,Django**
+- 💬 Ask me about **React,Django**
 
 - ⚡ Fun fact **I am pretty good to work with**
 
