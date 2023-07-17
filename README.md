@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suren</h1>
-<h3 align="center">Fullstack developer | React | Django | Web3</h3>
+<h3 align="center">Fullstack developer | React | Django </h3>
 
 - 🔭 I’m currently working as Fullstack Developer
 
