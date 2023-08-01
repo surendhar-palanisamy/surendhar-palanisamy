@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Fullstack Developer
 
-- 🌱 I'm currently learning web3 and React Native
+- 🌱 I'm currently learning SEO
 
 - 👨‍💻 All of my projects are available at [https://surendhar.vercel.app/](https://surendhar.vercel.app/)
 
