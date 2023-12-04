@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Fullstack Developer
 
-- 🌱 I'm currently learning SEO
+- 🌱 I'm currently learning Outbound marketing
 
 - 👨‍💻 All of my projects are available at [https://surendhar.vercel.app/](https://surendhar.vercel.app/)
 
